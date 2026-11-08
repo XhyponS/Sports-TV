@@ -19,3 +19,8 @@ http://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxs
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png" group-title=" SPORTS ", Arena PL
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd?n=6e46fc7fb2635d090de7fd3575dd21c6bb4b5776873fc528e0f4f4f7ffe86a96
+
+#EXTINF:-1 group-logo="https://i.ibb.co/672WTf9X/abeott.png" tvg-name="Premier League TV" tvg-logo="https://i.ibb.co/d0vtn8SY/41de7763b09c771b14c8eb302b9bc4d2.gif" group-title="SPORTS",12:30 Manchester United vs Aston Villa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
