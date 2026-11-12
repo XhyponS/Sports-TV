@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" group-title="SPORTS" tvg-logo="https://i.ibb.co/YFgFRmxH/Sky-sports-primary-tile.jpg", SkySports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=qd2MUJx2uKe8vQ1n81yoEA&e=2088940274&scheme=https
+
+
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.ibb.co/YFgFRmxH/Sky-sports-primary-tile.jpg" group-title="SPORTS",Sky Sports Main Event
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=linear
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/531.m3u
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" group-title="SPORTS" tvg-logo="https://i.ibb.co/YFgFRmxH/Sky-sports-primary-tile.jpg",Sky Sports Premier League
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=linear
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/536.m3u
+
+
+
+
+
+#EXTINF:-1 tvg-id="skysportsfootball.uk" group-title="SPORTS" tvg-logo="https://i.ibb.co/YFgFRmxH/Sky-sports-primary-tile.jpg",Sky Sports Football
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=linear
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9289/index.m3u8
